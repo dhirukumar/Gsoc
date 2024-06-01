@@ -51,4 +51,6 @@
 # some extra things 
 ## Here are the sum extra things which you knew about this when you fork the repository since long time and if you want to add all changes to your repository so you not need to delete your present repository and fork the project again to add all the changes you just need to go to your repository and you see the top right side a sink button and you just need to press this button for add the all changes
 
+# deploy your any project on vercel
+
       
